@@ -3,6 +3,8 @@ import requests
 from PIL import Image
 from io import BytesIO
 
+os.makedirs(exist_ok=True, name='./data/')
+
 # todo 获取 md 中的图片
 
 file = open("README.md", "r")

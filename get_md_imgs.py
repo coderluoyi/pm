@@ -24,7 +24,7 @@ for line in lines:
             image = Image.open(BytesIO(image_data))
 
             # 保存图片为JPG格式
-            image.save(img_name, 'JPEG')
+            image.save(f"./data/{img_name}", 'JPEG')
         else:
             print('error.code:', response.status_code)
 

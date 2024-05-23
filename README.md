@@ -52,17 +52,17 @@
 
 按评论区提供的参考信息原文：
 
-![](https://pic2.zhimg.com/80/v2-b932072f40aca3f269cec12d39e4be0e_720w.jpg)
+![](./data/v2-b932072f40aca3f269cec12d39e4be0e_720w.jpg)
 
 我搜集到的结案裁定书（庭外和解，撤销执行申请）：
 
-![](https://pic2.zhimg.com/80/v2-f1578ed729f022d7f896dd442155cd39_720w.jpg)
+![](./data/v2-f1578ed729f022d7f896dd442155cd39_720w.jpg)
 
 ## 动手辟谣：上 [http://zxgk.court.gov.cn/](http://zxgk.court.gov.cn/) 实际搜下失信和限高！
 
 首先看一下案号是哪个：
 
-![](https://pic2.zhimg.com/80/v2-3f2511062c02d3dfe870315d9b61cc6a_720w.jpg)
+![](./data/v2-3f2511062c02d3dfe870315d9b61cc6a_720w.jpg)
 
 案号（2022）湘1002民初1117号
 
@@ -70,27 +70,27 @@
 
 ### 是否是失信被执行人 - 案号（2022）湘1002民初1117号
 
-![](https://pic3.zhimg.com/80/v2-1fa11c4219ececd13ba2a0bcccc3893a_720w.jpg)
+![](./data/v2-1fa11c4219ececd13ba2a0bcccc3893a_720w.jpg)
 
-![](https://pic1.zhimg.com/80/v2-742c63eab9c818302e31a9c19787b6ce_720w.jpg)
+![](./data/v2-742c63eab9c818302e31a9c19787b6ce_720w.jpg)
 
-![](https://pic1.zhimg.com/80/v2-7ab84ed8409bbe9cbcdce51d49f89371_720w.jpg)
+![](./data/v2-7ab84ed8409bbe9cbcdce51d49f89371_720w.jpg)
 
-![](https://pic4.zhimg.com/80/v2-bb264bedf4575cfd94f42992408da91d_720w.jpg)
+![](./data/v2-bb264bedf4575cfd94f42992408da91d_720w.jpg)
 
-![](https://pic3.zhimg.com/80/v2-75d0a426e6cc0d78730938edd5d2efec_720w.jpg)
+![](./data/v2-75d0a426e6cc0d78730938edd5d2efec_720w.jpg)
 
-![](https://pic4.zhimg.com/80/v2-b8dc4085915df7984d0b06900bd6a470_720w.jpg)
+![](./data/v2-b8dc4085915df7984d0b06900bd6a470_720w.jpg)
 
-![](https://pic3.zhimg.com/80/v2-bf2f993ee92c2dcad92218983c9dd5fb_720w.jpg)
+![](./data/v2-bf2f993ee92c2dcad92218983c9dd5fb_720w.jpg)
 
 ### 是否被限制高消费 - 案号（2022）湘1002民初1117号
 
 首先看看案子的法院：
 
-![](https://pic3.zhimg.com/80/v2-a0e8951ff3ad1a0d7f0e7fdff73968ae_720w.jpg)
+![](./data/v2-a0e8951ff3ad1a0d7f0e7fdff73968ae_720w.jpg)
 
-![](https://pic2.zhimg.com/80/v2-27432d6f6ec62c78bef04f227a8bc2c2_720w.jpg)
+![](./data/v2-27432d6f6ec62c78bef04f227a8bc2c2_720w.jpg)
 
 涉及两个法院
 
@@ -102,9 +102,9 @@
 
 然后开始搜索，之后比对案号，发现都对不上
 
-![](https://pic2.zhimg.com/80/v2-2412fc031dc1c156055b0fcb5f8efd42_720w.jpg)
+![](./data/v2-2412fc031dc1c156055b0fcb5f8efd42_720w.jpg)
 
-![](https://pic2.zhimg.com/80/v2-720915899260503b66804fd1da4f64b2_720w.jpg)
+![](./data/v2-720915899260503b66804fd1da4f64b2_720w.jpg)
 
 ### 结论：失信或限高，都是造谣（累死我了，，这网站太卡，）
 
@@ -141,7 +141,7 @@
 
 参考原文：
 
-![](https://pic3.zhimg.com/80/v2-d9670ebbd25c7750f0702eec94e1d67c_720w.jpg)
+![](./data/v2-d9670ebbd25c7750f0702eec94e1d67c_720w.jpg)
 
 ---
 
@@ -151,11 +151,11 @@
 
 - 参考1 - 私信征集：
 
-![](https://pic2.zhimg.com/80/v2-d9937eed154e4107fc4796692f27f0d9_720w.jpg)
+![](./data/v2-d9937eed154e4107fc4796692f27f0d9_720w.jpg)
 
 原文预览：
 
-![](https://pic2.zhimg.com/80/v2-94dc7b1f0461f6a0f550e760d32f3c65_720w.jpg)
+![](./data/v2-94dc7b1f0461f6a0f550e760d32f3c65_720w.jpg)
 
 来自网友的私信，这个是关于TZ存在PUA行为的论证，论据主要是聊天记录的PUA话术解析，下面是参考原文：[参考原文](https://www.zhihu.com/question/656634762/answer/3506416984?utm_psn=1776851441736998912)
 
@@ -253,15 +253,15 @@
 
 如果能证明猫姐猫妹的行为与pm父母的债务无关，那么就能说明她们其实没有那么坏（关于TZ的新的信息我也会持续关注）
 
-![](https://pic2.zhimg.com/80/v2-74b33b759f984d4c089de2bed377b0a1_720w.jpg)
+![](./data/v2-74b33b759f984d4c089de2bed377b0a1_720w.jpg)
 
-![](https://pic1.zhimg.com/80/v2-7203304660968373c873c88a66196b46_720w.jpg)
+![](./data/v2-7203304660968373c873c88a66196b46_720w.jpg)
 
-![](https://pic4.zhimg.com/80/v2-e7279f92278cd9f72244d217a204a2fd_720w.jpg)
+![](./data/v2-e7279f92278cd9f72244d217a204a2fd_720w.jpg)
 
-![](https://pic1.zhimg.com/80/v2-facbd2b4e2b0216a925d68f465c8030a_720w.jpg)
+![](./data/v2-facbd2b4e2b0216a925d68f465c8030a_720w.jpg)
 
-![](https://pic1.zhimg.com/80/v2-fb889f72fc92e2f80ef7e2c7f5ef5602_720w.jpg)
+![](./data/v2-fb889f72fc92e2f80ef7e2c7f5ef5602_720w.jpg)
 
 ---
 

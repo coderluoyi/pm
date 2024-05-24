@@ -7,9 +7,7 @@ from io import BytesIO
 os.makedirs(exist_ok=True, name='./data/')
 
 # todo 获取 md 中的图片
-
-# file = open("README.md", "r")
-file = open("README2.md", "r")
+file = open("README.md", "r")
 
 pattern = r'http[s]{0,1}://pic[a-z0-9.]*/\d+/(?P<img>.*)(?=\))'
 
